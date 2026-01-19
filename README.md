@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suman Das</h1>
 <h3 align="center">Frontend Web Developer | React & Next.js Enthusiast</h3>
 
-<p align="center">
+<p>
 Frontend Web Developer with a strong passion for building responsive, modern, and user-friendly web applications. I specialize in creating clean UI designs, reusable components, and scalable frontend architecture using React and Next.js. I have a strong foundation in JavaScript and TypeScript, along with hands-on experience in state management using Redux and navigation using React Router. I focus on performance optimization, cross-device compatibility, and delivering smooth user experiences. Always eager to learn and explore new technologies, I love working on real-world projects that solve problems and improve user interaction.
 </p>
 
